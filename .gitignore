@@ -1,5 +1,10 @@
 # -----
+.python-version
+
 .vscode/
+ */C/*
+ !*/C/*.c
+ !*/C/*.h
 # -----
 
 # Byte-compiled / optimized / DLL files
