@@ -43,3 +43,8 @@ For example, to save the file `app.py` in the `python` foder insde the `Assignem
 - Try to add more and delete less, especially if the code is not yours.
 
 - Explain every change or addition in the message box before you commit.
+
+
+Try to write someting below to see if your edit is sent:
+
+"This is an edit."
